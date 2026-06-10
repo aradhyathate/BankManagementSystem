@@ -177,21 +177,6 @@ https://github.com/user-attachments/assets/4644be46-0aee-4110-83d0-77c2d05833fd
 
 ---
 
-## 📸 Project Screenshots
-
-Add screenshots of:
-
-* Login Page
-* Signup Pages
-* Transaction Dashboard
-* Deposit Screen
-* Withdrawal Screen
-* Fast Cash Screen
-* Balance Enquiry
-* Mini Statement
-
----
-
 ## 🔮 Future Enhancements
 
 * Online Fund Transfer
